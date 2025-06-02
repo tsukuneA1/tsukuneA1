@@ -2,28 +2,20 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=tsukuneA1" />
 </div>
-
-
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-README!
+README!<br>
 フルスタックエンジニア(を目指している者です)
 <br>
 
-
-<!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,prisma,supabase" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,prisma,supabase" theme=dark/>
 <br>
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tsukuneA1&theme=vue-dark&layout=compact" />
+<div align="left" theme=dark> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tsukuneA1&theme=vue-dark&layout=compact" theme=dark/>
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukuneA1&theme=vue-dark&layout=compact" />
 </div>
 
