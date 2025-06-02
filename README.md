@@ -9,7 +9,6 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @tsukuneA1](https://twitter.com/username)
 <br>
 
 
