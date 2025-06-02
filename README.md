@@ -3,7 +3,7 @@
 フルスタックエンジニア(を目指している者です)
 <br>
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,prisma,supabase" theme=dark/>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,dart,js,ts,react,next,figma,python,prisma,supabase,rails,github,flutter" theme=dark/>
 
 ## Activities
 <div align="left" theme=dark> 
