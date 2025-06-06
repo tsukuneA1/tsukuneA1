@@ -1,6 +1,7 @@
 <!-- 1. GitHub usernameを変更 -->
 # README !!!
-フルスタックエンジニア(を目指している者です)
+圧倒的雑魚
+周りの方に早く追いつきたい
 <br>
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,dart,python,js,ts,react,next,figma,prisma,supabase,rails,github,flutter,docker,astro,vercel" theme=dark/>
