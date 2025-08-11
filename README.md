@@ -1,7 +1,7 @@
 <!-- 1. GitHub usernameを変更 -->
 # README !!!
 TsukuneA1<br>
-パチンコーダー<br>
+パチンコーダー(脱却中:https://github.com/tsukuneA1/usestate_reinvent_the_wheel)<br>
 My Portfolio: https://my-portfolio-vert-eight-64.vercel.app/
 <br>
 ## Skills
