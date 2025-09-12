@@ -1,6 +1,7 @@
 <!-- 1. GitHub usernameを変更 -->
 # README !!!
 TsukuneA1<br>
+ソフトウェア開発とその勉強が好きです<br/>
 My Portfolio: https://my-portfolio-vert-eight-64.vercel.app/
 <br>
 ## Skills
