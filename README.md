@@ -2,7 +2,7 @@
 # README !!!
 TsukuneA1<br>
 ソフトウェア開発とその勉強が好きです<br/>
-My Portfolio: https://my-portfolio-vert-eight-64.vercel.app/
+My Portfolio: https://tsukunea1.dev/
 <br>
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,dart,python,js,ts,go,ruby,react,next,figma,prisma,supabase,rails,github,flutter,docker,astro,vercel" theme=dark/>
